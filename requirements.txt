@@ -1,9 +1,6 @@
 numpy
 matplotlib
-segyio
-scipy
-sklearn
-pandas
-ipywidgets
+scikit-learn
 segysak
 xarray
+pandas
