@@ -1,0 +1,9 @@
+numpy
+matplotlib
+segyio
+scipy
+sklearn
+pandas
+ipywidgets
+segysak
+xarray
