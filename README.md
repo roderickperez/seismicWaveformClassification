@@ -34,11 +34,11 @@ To run these notebooks on your local machine, you will need to set up a Python e
 2.  **Create and Activate the Conda Environment**
     Use the provided `requirements.txt` file to create a new conda environment with all the necessary libraries. This ensures you have the correct versions and avoids conflicts with your other Python projects.
     ```bash
-    # Create a new environment named 'seismic_env' with Python 3.11
-    conda create --name seismic_env python=3.11 -y
+    # Create a new environment named 'seismicWaveformClassification' with Python 3.11
+    conda create --name seismicWaveformClassification python=3.11 -y
 
     # Activate the new environment
-    conda activate seismic_env
+    conda activate seismicWaveformClassification
 
     # Install the required packages using pip
     pip install -r requirements.txt
