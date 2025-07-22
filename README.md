@@ -27,7 +27,7 @@ To run these notebooks on your local machine, you will need to set up a Python e
 1.  **Clone the Repository**
     Open a terminal or Git Bash and clone this repository to your local machine:
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/roderickperez/seismicWaveformClassification.git
     cd seismicWaveformClassification
     ```
 
